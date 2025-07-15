@@ -67,7 +67,7 @@
 <body>
   <header>
     <h1>1st Anniversary</h1>
-    <h2>Sam’s Aesthetic Panyabungan</h2>
+    <h2>Klinik Sam’s Aesthetic Panyabungan</h2>
     <p><strong>Jumat, 25 Juli 2025</strong></p>
     <p><strong>Pukul 09.00 – 13.00 WIB</strong></p>
     <p><strong>Jl. Willem Iskandar Pidoli Dolok, Mandailing Natal</strong></p>

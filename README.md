@@ -79,7 +79,6 @@
 
   <section class="info">
     <p>Turut mengundang Bapak/Ibu/Saudara/i untuk merayakan momen spesial ini bersama kami ✨</p>
-    <p><strong>Diskon 25% untuk semua treatment (Berlaku hanya 1 hari!)</strong></p>
 
     <div class="rsvp-button">
       <a href="https://wa.me/6285275400505?text=Halo%2C%20saya%20ingin%20konfirmasi%20kehadiran%20untuk%20anniversary%20Sam's%20Aesthetic">Konfirmasi Kehadiran</a>
